@@ -1,2 +1,2 @@
-# OtpGenerate
+# frontpageotp
 Created with CodeSandbox
